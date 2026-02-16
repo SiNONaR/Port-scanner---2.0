@@ -18,4 +18,4 @@ This tool allows scanning a range of ports on a target IP or hostname and suppor
 ## Usage
 
 ```bash
-python scanner.py <target> -p 1-1000 -t 200 -o results.txt
+python Port_Scaner.py <target> -p 1-1000 -t 200 -o results.txt
